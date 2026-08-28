@@ -266,7 +266,7 @@ For a production environment, I would want stable employee and candidate IDs, ca
 
 - README.md
 - data_quality_audit.sql
-- Employee_Lifecycle_Interactive_Dashboard.html
+- Index.html
 - dashboard/ with six Power BI screenshots
 
 The public repository intentionally does not include the Power BI source file.
