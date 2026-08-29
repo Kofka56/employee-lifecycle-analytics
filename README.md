@@ -22,6 +22,7 @@ The work included SQL-based data quality checks, Power Query cleaning, Power BI 
 The public repository contains the README, SQL data-quality audit, dashboard screenshots, and an interactive HTML companion. The Power BI source file is not public and is **available upon request for recruitment or technical review**.
 
 The HTML companion was created with AI assistance after the Power BI project was completed. The analysis, metrics, findings, page structure, and visual design come from the original project.
+**[View Interactive Dashboard](https://kofka56.github.io/employee-lifecycle-analytics/)**
 
 ---
 
